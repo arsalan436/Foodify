@@ -1,4 +1,4 @@
-# Swiggy Clone 🍽️
+# Foodify 🍽️
 
 A frontend-only React project replicating the Swiggy food delivery platform’s user interface. Users can browse restaurants, view their details, and explore menus — all built with a clean, responsive UI.
 
